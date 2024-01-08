@@ -1,7 +1,7 @@
 ---
 title: "Planning dynamic wireless charging infrastructure for battery electric bus systems with the joint optimization of charging scheduling"
 collection: publications
-permalink: /publication/2024-01-15-paper-title-number-1
+permalink: /publication/2024-01-15-paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-05
 venue: 'Transportation Research Part C: Emerging Technologies'
