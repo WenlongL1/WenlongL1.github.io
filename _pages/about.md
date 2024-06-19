@@ -21,4 +21,6 @@ Greetings! Welcome to my homepage! 👋 I'm Wenlong Li (李文龙), a Master's c
 ***
 # Research Highlight
 
-<span style="color: red">**For detail: [publications](https://wenlongl1.github.io/publications/)**</span>
+
+
+<span style="color: red">**For Further detail: [publications](https://wenlongl1.github.io/publications/)**</span>
