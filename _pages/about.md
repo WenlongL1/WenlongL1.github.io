@@ -18,11 +18,7 @@ Greetings! Welcome to my homepage! 👋 I'm Wenlong Li (李文龙), a Master's c
 * M.S., Transportation Engineering, Beijing University of Technology, 2025 (expected)
 * B.S., Transportation Engineering, East China Jiaotong University, 2022
 
+***
 # Research Highlight
 
-
-
-
-***
-
-# 
+<span style="color: red">**For detail: [publications](https://wenlongl1.github.io/publications/)**</span>
