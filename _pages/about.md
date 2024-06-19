@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 🎖 Honors and Awards
+Greetings! Welcome to my homepage! I'm Wenlong Li, a Master candidate in the College of Metropolitan Transportation at Beijing University of Technology.
