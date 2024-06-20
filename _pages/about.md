@@ -20,8 +20,18 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 
 ***
 # Education 
+===
 * M.S., Transportation Engineering, Beijing University of Technology, 2025 (expected)
 * B.S., Transportation Engineering, East China Jiaotong University, 2022
+
+***
+# Awards
+===
+* Graduate Merit Scholarship, Beijing University of Technology, 2024.
+* Outstanding Graduate Thesis, East China Jiaotong University, 2022.
+* Grand Prize Scholarship, East China Jiaotong University, 2021.
+* First Prize Scholarship, East China Jiaotong University, 2019-2020.
+
 
 ***
 # Research Highlight
@@ -37,12 +47,12 @@ Similarly, <span style = "color:brown">_**charging scheduling**_</span> for BEBs
 
 Therefore, this study jointly addresses two optimization problems: the <span style = "color:blue">_**long-term strategic optimization problem**_</span> and the <span style = "color:orange">_**short-term tactical optimization problem**_</span>.
 
-<span style = "color:blue">_**Long-term strategic optimization problem:**_</span> 
+<span style = "color:blue">_**Long-term strategic optimization problem:**_</span> minimize the overall cost by optimizing the deployment of the DWC facility and battery capacity for BEBs. 
 
-<span style = "color:orange">_**Short-term tactical optimization problem:**_</span> 
+<span style = "color:orange">_**Short-term tactical optimization problem:**_</span> minimize charging costs by optimizing the charging scheduling for BEBs within the BEB system throughout the day.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/framework.jpg" width="600"/>
+<img src="https://WenlongL1.github.io/images/framework.jpg" width="700"/>
 </p>
 
 
