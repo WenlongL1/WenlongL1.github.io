@@ -37,9 +37,11 @@ Nevertheless, the deployment of the charging facility and the optimal battery ca
 Similarly, charging scheduling for BEBs also impacts infrastructure planning.
 Therefore, jointly optimizing the deployment of DWC facilities, the battery capacity of BEBs, and the charging schedule considering the time-of-use (TOU) tariff is crucial for applying the DWC technology in the BEB system.
 
+<p align="center">
 <img src="https://WenlongL1.github.io/images/framework.jpg" width="600"/>
+</p>
 
-This study jointly addresses two optimization problems: the <span style = "color:blue">_long-term strategic optimization problem_</span> and <span style = "color:orange">_the short-term tactical optimization problem_</span>.
+This study jointly addresses two optimization problems: the <span style = "color:blue">_long-term strategic optimization problem_</span> and the <span style = "color:orange">_short-term tactical optimization problem_</span>.
 
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
