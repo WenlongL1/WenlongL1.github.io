@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 Greetings! Welcome to my homepage! 👋 
-I'm Wenlong Li (李文龙), a Master's candidate at the College of Metropolitan Transportation, Beijing University of Technology. 
+I'm Wenlong Li (李文龙), a Master candidate at the College of Metropolitan Transportation, Beijing University of Technology. 
 My research interests include **electric bus systems**, **dynamic wireless charging (DWC)**, and **network modeling**. 
 I am enthusiastic about finding optimal solutions to urban public transportation problems using mathematics and modeling techniques.
 
@@ -31,8 +31,12 @@ Especially, battery electric buses (BEBs) are garnering growing attention becaus
 However, some battery-related weaknesses, such as <span style = "color:brown">_**limited range**, **lengthy charging time**, and **high battery costs**_</span>, largely arrest the practical development and applications of BEBs.
 The emergence of <span style = "color:green">_**dynamic wireless charging (DWC)**_</span> technology, which is considered a promising improvement direction for the BEB system in the future, is expected to resolve these problems.
 
+This study jointly addresses two optimization problems: the long-term strategic optimization problem and the short-term tactical optimization problem.
 
-*Related research findings have been reported at the 103rd Transportation Research Board (TRB) meeting.*
+
+
+
+*Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
 <img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1200"/>
 
 <span style="color: red">**For further detail: [Publications](https://wenlongl1.github.io/publications/)**</span>
