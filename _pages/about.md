@@ -33,7 +33,7 @@ The emergence of <span style = "color:green">_**dynamic wireless charging (DWC)*
 Unlike fixed charging facilities, DWC facilities allow BEBs to charge in motion, thereby extending the service range of BEBs.
 
 
-Nevertheless, the deployment of the charging facility and the optimal battery capacity are significant variables, which are interdependent and directly impact the charging scheduling of BEBs. 
+Nevertheless, the deployment of the <span style = "color:burgundy">_**charging facility**_</span> and the optimal battery capacity are significant variables, which are interdependent and directly impact the charging scheduling of BEBs. 
 Similarly, charging scheduling for BEBs also impacts infrastructure planning.
 Therefore, jointly optimizing the deployment of DWC facilities, the battery capacity of BEBs, and the charging schedule considering the time-of-use (TOU) tariff is crucial for applying the DWC technology in the BEB system.
 
@@ -41,7 +41,7 @@ Therefore, jointly optimizing the deployment of DWC facilities, the battery capa
 <img src="https://WenlongL1.github.io/images/framework.jpg" width="600"/>
 </p>
 
-This study jointly addresses two optimization problems: the <span style = "color:blue">_long-term strategic optimization problem_</span> and the <span style = "color:orange">_short-term tactical optimization problem_</span>.
+This study jointly addresses two optimization problems: the <span style = "color:blue">_**long-term strategic optimization problem**_</span> and the <span style = "color:orange">_**short-term tactical optimization problem**_</span>.
 
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
