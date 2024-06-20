@@ -29,7 +29,8 @@ Especially, battery electric buses (BEBs) are garnering growing attention becaus
 **However**, some battery-related weaknesses, such as limited range, lengthy charging time, and high battery costs, largely arrest the practical development and applications of BEBs.
 The emergence of **dynamic wireless charging (DWC)** technology, which is considered a promising improvement direction for the BEB system in the future, is expected to resolve these problems.
 
-*Related research findings have been reported at the 104th Transportation Research Board (TRB) meeting.*
-<img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1000"/>
+
+*Related research findings have been reported at the 103rd Transportation Research Board (TRB) meeting.*
+<img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1200"/>
 
 <span style="color: red">**For further detail: [Publications](https://wenlongl1.github.io/publications/)**</span>
