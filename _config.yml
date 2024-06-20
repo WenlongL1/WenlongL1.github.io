@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenlong Li"
-  avatar           :
+  avatar           : "profile.jpg"
   bio              : "Battery Electric Bus, Network Modeling"
   location         : "Beijing, China"
   employer         :
