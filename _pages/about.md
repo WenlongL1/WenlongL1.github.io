@@ -27,10 +27,9 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 ***
 # Awards
 ===
-* Graduate Merit Scholarship, Beijing University of Technology, 2024.
-* Outstanding Graduate Thesis, East China Jiaotong University, 2022.
-* Grand Prize Scholarship, East China Jiaotong University, 2021.
-* First Prize Scholarship, East China Jiaotong University, 2019-2020.
+* Graduate Technological Innovation Award, Beijing University of Technology, 2024.
+* Outstanding Graduate Thesis (113/5500), East China Jiaotong University, 2022.
+* Grand Prize Scholarship (1/70), East China Jiaotong University, 2021.
 
 
 ***
