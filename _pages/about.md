@@ -30,10 +30,16 @@ To address the climate crisis and alleviate energy shortages, the electrificatio
 Especially, battery electric buses (BEBs) are garnering growing attention because of their merits such as cleanliness and high efficiency.
 However, some battery-related weaknesses, such as <span style = "color:brown">_**limited range**, **lengthy charging time**, and **high battery costs**_</span>, largely arrest the practical development and applications of BEBs.
 The emergence of <span style = "color:green">_**dynamic wireless charging (DWC)**_</span> technology, which is considered a promising improvement direction for the BEB system in the future, is expected to resolve these problems.
+Unlike fixed charging facilities, DWC facilities allow BEBs to charge in motion, thereby extending the service range of BEBs.
 
-This study jointly addresses two optimization problems: the long-term strategic optimization problem and the short-term tactical optimization problem.
 
-<img src="https://WenlongL1.github.io/images/framework.jpg" width="800"/>
+Nevertheless, the deployment of the charging facility and the optimal battery capacity are significant variables, which are interdependent and directly impact the charging scheduling of BEBs. 
+Similarly, charging scheduling for BEBs also impacts infrastructure planning.
+Therefore, jointly optimizing the deployment of DWC facilities, the battery capacity of BEBs, and the charging schedule considering the time-of-use (TOU) tariff is crucial for applying the DWC technology in the BEB system.
+
+<img src="https://WenlongL1.github.io/images/framework.jpg" width="600"/>
+
+This study jointly addresses two optimization problems: the <span style = "color:blue">_long-term strategic optimization problem_</span> and <span style = "color:orange">_the short-term tactical optimization problem_</span>.
 
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
