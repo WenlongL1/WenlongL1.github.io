@@ -14,7 +14,7 @@ I'm Wenlong Li (李文龙), a Master candidate at the College of Metropolitan Tr
 My research interests include **electric bus systems**, **dynamic wireless charging (DWC)**, and **network modeling**. 
 I am enthusiastic about finding optimal solutions to urban public transportation problems using mathematics and modeling techniques.
 
-🤔Want to learn more about me? <span style = "color:red">Click here: [CV](https://wenlongl1.github.io/cv/)</span>
+🤔Want to learn more about me? <span style = "color:red">**Click here: [CV](https://wenlongl1.github.io/cv/)**</span>
 
 ❗❗❗*Seeking a Ph.D. Position for 2025 Fall* 😍
 
@@ -33,10 +33,10 @@ The emergence of <span style = "color:green">_**dynamic wireless charging (DWC)*
 
 This study jointly addresses two optimization problems: the long-term strategic optimization problem and the short-term tactical optimization problem.
 
-
+<img src="https://WenlongL1.github.io/images/framework.jpg" width="800"/>
 
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
-<img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1200"/>
+<img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1400"/>
 
 <span style="color: red">**For further detail: [Publications](https://wenlongl1.github.io/publications/)**</span>
