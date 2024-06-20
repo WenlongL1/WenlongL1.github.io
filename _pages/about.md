@@ -15,6 +15,7 @@ My research interests include **electric bus systems**, **dynamic wireless charg
 I am enthusiastic about finding optimal solutions to urban public transportation problems using mathematics and modeling techniques.
 
 ❗❗❗*Seeking a Ph.D. Position for 2025 Fall* 😍
+Want to know me more? Please click here:[CV](https://wenlongl1.github.io/CV/)
 
 ***
 # Education 
