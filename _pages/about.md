@@ -14,7 +14,7 @@ I'm Wenlong Li (李文龙), a Master candidate at the College of Metropolitan Tr
 My research interests include **electric bus systems**, **dynamic wireless charging (DWC)**, and **network modeling**. 
 I am enthusiastic about finding optimal solutions to urban public transportation problems using mathematics and modeling techniques.
 
-🤔Want to learn more about me? Click here: [CV](https://wenlongl1.github.io/cv/)
+🤔Want to learn more about me? <span style = "color:red">Click here: [CV](https://wenlongl1.github.io/cv/)</span>
 
 ❗❗❗*Seeking a Ph.D. Position for 2025 Fall* 😍
 
