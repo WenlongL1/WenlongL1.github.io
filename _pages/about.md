@@ -66,12 +66,19 @@ It ultimately identifies the optimal deployment of DWC equipment and compares th
 
 <p align="center">
 <img src="https://WenlongL1.github.io/images/map1.jpg" width="275"/>
-<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="240"/>  
-<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="250"/> 
+<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="235"/>  
+<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="240"/> 
 <img src="https://WenlongL1.github.io/images/cost12.jpg" width="700"/> 
 <img src="https://WenlongL1.github.io/images/cost3.jpg" width="680"/> 
 </p>
 
+From the perspective of charging scheduling, compared to before optimization, BEBs can make full use of DWC facilities to replenish energy, thereby reducing the depth of discharge (DoD) and battery capacity requirements.
+
+<p align="center">
+<img src="https://WenlongL1.github.io/images/SOC1.jpg" width="220"/>
+<img src="https://WenlongL1.github.io/images/SOC2.jpg" width="220"/>  
+<img src="https://WenlongL1.github.io/images/SOC3.jpg" width="220"/>
+</p>
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
 <img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1400"/>
