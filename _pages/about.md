@@ -64,9 +64,9 @@ BEBs operate on fixed routes and schedules. Based on this characteristic, the DW
 
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/map1.jpg" width="300"/>
-<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="300"/>  
-<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="300"/>  
+<img src="https://WenlongL1.github.io/images/map1.jpg" width="200"/>
+<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="200"/>  
+<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="200"/>  
 </p>
 
 
