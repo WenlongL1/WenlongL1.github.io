@@ -68,7 +68,8 @@ It ultimately identifies the optimal deployment of DWC equipment and compares th
 <img src="https://WenlongL1.github.io/images/map1.jpg" width="250"/>
 <img src="https://WenlongL1.github.io/images/topmap1.jpg" width="250"/>  
 <img src="https://WenlongL1.github.io/images/125TOU.jpg" width="250"/> 
-<img src="https://WenlongL1.github.io/images/cost12.jpg" width="700"/> 
+<img src="https://WenlongL1.github.io/images/cost12.jpg" width="800"/> 
+<img src="https://WenlongL1.github.io/images/cost3.jpg" width="200"/> 
 </p>
 
 
