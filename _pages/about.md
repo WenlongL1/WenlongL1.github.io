@@ -48,7 +48,7 @@ Similarly, <span style = "color:brown">_**charging scheduling**_</span> for BEBs
 Therefore, this study jointly addresses two optimization problems: the <span style = "color:blue">_**long-term strategic optimization problem**_</span> and the <span style = "color:orange">_**short-term tactical optimization problem**_</span>.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/framework.jpg" width="700"/>
+<img src="https://WenlongL1.github.io/images/framework.jpg" width="600"/>
 </p>
 
 <span style = "color:blue">_**Long-term strategic optimization problem:**_</span> minimize the overall cost by optimizing the deployment of the DWC facility and battery capacity for BEBs. 
@@ -58,7 +58,7 @@ Therefore, this study jointly addresses two optimization problems: the <span sty
 BEBs operate on fixed routes and schedules. Based on this characteristic, the DWC charging equipment can be strategically deployed along the bus routes.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/dwc1.jpg" width="700"/>
+<img src="https://WenlongL1.github.io/images/dwc1.jpg" width="600"/>
 </p>
 
 The study uses bus routes 19, 59, and 65 in Beijing as a system for numerical experiments.
@@ -68,16 +68,16 @@ It ultimately identifies the optimal deployment of DWC equipment and compares th
 <img src="https://WenlongL1.github.io/images/map1.jpg" width="275"/>
 <img src="https://WenlongL1.github.io/images/topmap1.jpg" width="235"/>  
 <img src="https://WenlongL1.github.io/images/125TOU.jpg" width="240"/> 
-<img src="https://WenlongL1.github.io/images/cost12.jpg" width="400"/> 
-<img src="https://WenlongL1.github.io/images/cost3.jpg" width="400"/> 
+<img src="https://WenlongL1.github.io/images/cost12.jpg" width="600"/> 
+<img src="https://WenlongL1.github.io/images/cost3.jpg" width="600"/> 
 </p>
 
 From the perspective of charging scheduling, compared to before optimization, BEBs can make full use of DWC facilities to replenish energy, thereby reducing the depth of discharge (DoD) and battery capacity requirements.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/SOC1.jpg" width="250"/>
-<img src="https://WenlongL1.github.io/images/SOC2.jpg" width="250"/>  
-<img src="https://WenlongL1.github.io/images/SOC3.jpg" width="250"/>
+<img src="https://WenlongL1.github.io/images/SOC1.jpg" width="400"/>
+<img src="https://WenlongL1.github.io/images/SOC2.jpg" width="400"/>  
+<img src="https://WenlongL1.github.io/images/SOC3.jpg" width="400"/>
 </p>
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
