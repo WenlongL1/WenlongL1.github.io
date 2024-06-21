@@ -65,7 +65,7 @@ The study uses bus routes 19, 59, and 65 in Beijing as a system for numerical ex
 It ultimately identifies the optimal deployment of DWC equipment and compares the charging schedules before and after optimization.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/map1.jpg" width="300"/>
+<img src="https://WenlongL1.github.io/images/map1.jpg" width="295"/>
 <img src="https://WenlongL1.github.io/images/topmap1.jpg" width="230"/>  
 <img src="https://WenlongL1.github.io/images/125TOU.jpg" width="240"/> 
 <img src="https://WenlongL1.github.io/images/cost12.jpg" width="700"/> 
