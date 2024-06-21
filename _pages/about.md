@@ -47,6 +47,10 @@ Similarly, <span style = "color:brown">_**charging scheduling**_</span> for BEBs
 
 Therefore, this study jointly addresses two optimization problems: the <span style = "color:blue">_**long-term strategic optimization problem**_</span> and the <span style = "color:orange">_**short-term tactical optimization problem**_</span>.
 
+<p align="center">
+<img src="https://WenlongL1.github.io/images/framework.jpg" width="700"/>
+</p>
+
 <span style = "color:blue">_**Long-term strategic optimization problem:**_</span> minimize the overall cost by optimizing the deployment of the DWC facility and battery capacity for BEBs. 
 
 <span style = "color:orange">_**Short-term tactical optimization problem:**_</span> minimize charging costs by optimizing the charging scheduling for BEBs within the BEB system throughout the day.
@@ -54,7 +58,6 @@ Therefore, this study jointly addresses two optimization problems: the <span sty
 <p align="center">
 <img src="https://WenlongL1.github.io/images/framework.jpg" width="700"/>
 </p>
-
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
 <img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1400"/>
