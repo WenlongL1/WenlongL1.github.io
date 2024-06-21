@@ -75,9 +75,9 @@ It ultimately identifies the optimal deployment of DWC equipment and compares th
 From the perspective of charging scheduling, compared to before optimization, BEBs can make full use of DWC facilities to replenish energy, thereby reducing the depth of discharge (DoD) and battery capacity requirements.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/SOC1.jpg" width="400"/>
-<img src="https://WenlongL1.github.io/images/SOC2.jpg" width="400"/>  
-<img src="https://WenlongL1.github.io/images/SOC3.jpg" width="400"/>
+<img src="https://WenlongL1.github.io/images/SOC1.jpg" width="600"/>
+<img src="https://WenlongL1.github.io/images/SOC2.jpg" width="600"/>  
+<img src="https://WenlongL1.github.io/images/SOC3.jpg" width="600"/>
 </p>
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
