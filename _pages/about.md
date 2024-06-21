@@ -58,16 +58,17 @@ Therefore, this study jointly addresses two optimization problems: the <span sty
 BEBs operate on fixed routes and schedules. Based on this characteristic, the DWC charging equipment can be strategically deployed along the bus routes.
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/map1.jpg" width="300"/>
-<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="300"/>  
-<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="300"/>  
+<img src="https://WenlongL1.github.io/images/dwc1.jpg" width="700"/>
 </p>
 
 
 
 <p align="center">
-<img src="https://WenlongL1.github.io/images/dwc1.jpg" width="700"/>
+<img src="https://WenlongL1.github.io/images/map1.jpg" width="300"/>
+<img src="https://WenlongL1.github.io/images/topmap1.jpg" width="300"/>  
+<img src="https://WenlongL1.github.io/images/125TOU.jpg" width="300"/>  
 </p>
+
 
 *Related research findings have been reported at the 103rd Transportation Research Board (TRB) AP050 Committee on Bus Transit Systems*
 <img src="https://WenlongL1.github.io/images/trb2024.jpg" width="1400"/>
