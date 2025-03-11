@@ -20,8 +20,9 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 ***
 # Education 
 
-* M.S., Transportation Engineering, Beijing University of Technology, 2025 (expected)
-* B.S., Transportation Engineering, East China Jiaotong University, 2022
+* Ph.D., Transportation Engineering, University at Buffalo, Aug. 2025 - present
+* M.S., Transportation Engineering, Beijing University of Technology, Sep. 2022 - Jul. 2025
+* B.S., Transportation Engineering, East China Jiaotong University, Sep. 2018 - Jul. 2022
 
 ***
 # Awards
