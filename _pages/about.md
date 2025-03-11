@@ -11,7 +11,7 @@ redirect_from:
 
 Greetings! Welcome to my homepage!👋 
 I'm Wenlong Li (李文龙), a Master's candidate at the College of Metropolitan Transportation, Beijing University of Technology. 
-My research interests include **Electric Bus Systems**, **Dynamic Wireless Charging (DWC)**, and **Network Modeling**. 
+My research interests include **Transportation electrification** and **Traffic Network Modeling**. 
 I am enthusiastic about finding optimal solutions to urban public transportation problems using mathematics and modeling techniques.
 
 🤔Want to learn more about me? <span style = "color:red">**Click here: [CV](https://wenlongl1.github.io/cv/)**</span>
