@@ -27,9 +27,9 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 ***
 # Awards
 
+* China National Scholarship, Beijing University of Technology, 2024.
 * First-Class Graduate Technological Innovation Award, Beijing University of Technology, 2024.
 * Outstanding Graduate Thesis (113/5500), East China Jiaotong University, 2022.
-* First Prize in Jiangxi Province Mathematical Modeling Contest, 2020.
 
 
 ***
