@@ -22,14 +22,17 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 
 * Ph.D., Transportation Engineering, University at Buffalo - SUNY, Aug. 2025 - present
 * M.S., Transportation Engineering, Beijing University of Technology, Sep. 2022 - Jul. 2025
+* *Thesis: *
 * B.S., Transportation Engineering, East China Jiaotong University, Sep. 2018 - Jul. 2022
+* *Thesis:*
 
 ***
 # Awards
 
+* Outstanding Thesis, Beijing University of Technology, 2025.
 * China National Scholarship, Beijing University of Technology, 2024.
 * First-Class Graduate Technological Innovation Award, Beijing University of Technology, 2024.
-* Outstanding Graduate Thesis (113/5500), East China Jiaotong University, 2022.
+* Outstanding Thesis, East China Jiaotong University, 2022.
 
 
 ***
