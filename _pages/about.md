@@ -21,7 +21,7 @@ I am enthusiastic about finding optimal solutions to urban public transportation
 # Education 
 
 * Ph.D., Transportation Engineering, University at Buffalo - SUNY, Aug. 2025 - present
-* M.S., Transportation Engineering, Beijing University of Technology, Sep. 2022 - Jul. 2025
+* M.S., Transportation Engineering, Beijing University of Technology, Sep. 2022 - Jun. 2025
    *Thesis: Integrated Optimization Research on Electric Bus Systems under Dynamic Wireless Charging Mode*
 * B.S., Transportation Engineering, East China Jiaotong University, Sep. 2018 - Jul. 2022
 
