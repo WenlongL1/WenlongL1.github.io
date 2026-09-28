@@ -5,8 +5,8 @@
   --line: #dfe5df;
   --paper: #fdfdfb;
   --wash: #f0f4ef;
-  --serif: "Trebuchet MS", "Avenir Next", "Segoe UI", sans-serif;
-  --sans: "Avenir Next", "Trebuchet MS", "Segoe UI", sans-serif;
+  --serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  --sans: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -20,8 +20,8 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--sans);
-  font-size: 15px;
-  line-height: 1.8;
+  font-size: 16px;
+  line-height: 1.65;
   -webkit-font-smoothing: antialiased;
 }
 a {
@@ -58,11 +58,11 @@ p + p {
 h1,
 h2 {
   font-family: var(--serif);
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.18;
 }
 h3 {
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
 }
@@ -150,11 +150,12 @@ nav a[aria-current] {
 .eyebrow,
 .section-number,
 .timeline-date {
-  font-size: 10px;
-  letter-spacing: 1.7px;
+  font-size: 12px;
+  letter-spacing: 0.3px;
   font-weight: 600;
   color: var(--muted);
   line-height: 1.6;
+  font-style: italic;
 }
 .hero .eyebrow {
   color: var(--accent);
@@ -172,38 +173,28 @@ nav a[aria-current] {
   flex-shrink: 0;
 }
 .hero h1 {
-  font-size: 56px;
-  letter-spacing: -2.1px;
-  margin: 20px 0 14px;
-}
-.hero h1 span {
-  font-family: var(--sans);
-  font-size: 23px;
-  font-weight: 400;
-  letter-spacing: 2px;
-  color: #7c8780;
-  display: inline-block;
-  margin-left: 10px;
-  vertical-align: middle;
+  font-size: 42px;
+  letter-spacing: -1.2px;
+  margin: 0 0 10px;
 }
 .hero-role {
-  font-size: 16px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
 }
 .department {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
   margin-top: 2px;
 }
 .hero .intro {
-  font-family: var(--serif);
-  font-size: 23px;
-  line-height: 1.5;
-  margin: 27px 0 15px;
+  font-family: var(--sans);
+  font-size: 18px;
+  line-height: 1.65;
+  margin: 20px 0 14px;
 }
 .hero-copy > p:not(.intro):not(.eyebrow):not(.hero-role):not(.department) {
-  font-size: 13px;
-  line-height: 1.95;
+  font-size: 15px;
+  line-height: 1.7;
   color: #52605b;
 }
 .hero-links {
@@ -273,7 +264,7 @@ nav a[aria-current] {
   scroll-margin-top: 10px;
 }
 .section-label h2 {
-  font-size: 29px;
+  font-size: 24px;
   letter-spacing: -0.7px;
   margin: 9px 0 12px;
 }
@@ -286,9 +277,9 @@ nav a[aria-current] {
   letter-spacing: 1.4px;
 }
 .section-intro {
-  font-family: var(--serif);
-  font-size: 23px;
-  line-height: 1.5;
+  font-family: var(--sans);
+  font-size: 18px;
+  line-height: 1.65;
   margin: -4px 0 25px;
   letter-spacing: -0.2px;
 }
@@ -335,7 +326,7 @@ nav a[aria-current] {
   margin-top: 8px;
 }
 .publication h3 {
-  font: 400 21px/1.4 var(--serif);
+  font: 600 18px/1.5 var(--serif);
   letter-spacing: -0.2px;
 }
 .publication h3 a {
@@ -402,8 +393,8 @@ nav a[aria-current] {
 }
 .project-content h3 {
   font-family: var(--serif);
-  font-weight: 400;
-  font-size: 24px;
+  font-weight: 600;
+  font-size: 20px;
   margin: 9px 0 11px;
 }
 .project-content > p:not(.eyebrow) {
@@ -512,8 +503,7 @@ nav a[aria-current] {
   padding-top: 24px;
 }
 .awards h3 {
-  font: 22px var(--serif);
-  font-weight: 400;
+  font: 600 18px var(--serif);
 }
 .awards ul {
   padding: 0;
@@ -563,12 +553,12 @@ nav a[aria-current] {
   font-size: 12px;
 }
 .inner-page > h1 {
-  font-size: 42px;
+  font-size: 32px;
   letter-spacing: -1px;
   margin: 25px 0 35px;
 }
 .inner-page > h2 {
-  font-size: 28px;
+  font-size: 22px;
   margin: 36px 0 18px;
 }
 .inner-page > p,
@@ -596,7 +586,7 @@ nav a[aria-current] {
   margin: 20px 0;
 }
 .case-lead {
-  font-size: 21px !important;
+  font-size: 18px !important;
   font-family: var(--serif);
 }
 .research-figure {
@@ -674,10 +664,7 @@ nav a[aria-current] {
     height: 250px;
   }
   .hero h1 {
-    font-size: 47px;
-  }
-  .hero h1 span {
-    font-size: 19px;
+    font-size: 38px;
   }
   .section-row {
     grid-template-columns: 160px minmax(0, 1fr);
@@ -690,7 +677,7 @@ nav a[aria-current] {
     font-size: 14px;
   }
   .section-label h2 {
-    font-size: 25px;
+    font-size: 24px;
   }
   .hero .eyebrow {
     font-size: 8px;
@@ -764,21 +751,15 @@ nav a[aria-current] {
   }
   .hero h1 {
     grid-column: 1;
-    grid-row: 2;
-    font-size: 39px;
+    grid-row: 1;
+    font-size: 34px;
     line-height: 1.1;
     margin: 3px 0 0;
     letter-spacing: -1.5px;
   }
-  .hero h1 span {
-    display: block;
-    font-size: 18px;
-    letter-spacing: 3px;
-    margin: 12px 0 0;
-  }
   .portrait {
     grid-column: 2;
-    grid-row: 2/5;
+    grid-row: 1/4;
     align-self: start;
   }
   .portrait img {
@@ -794,24 +775,24 @@ nav a[aria-current] {
   }
   .hero-role {
     grid-column: 1;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.6;
     margin-top: 0;
   }
   .department {
     grid-column: 1;
-    font-size: 10px;
+    font-size: 12px;
     line-height: 1.7;
     margin-top: -12px;
   }
   .hero .intro {
     grid-column: 1/-1;
-    font-size: 23px;
+    font-size: 18px;
     margin: 8px 0 -4px;
   }
   .hero-copy > p:not(.intro):not(.eyebrow):not(.hero-role):not(.department) {
     grid-column: 1/-1;
-    font-size: 13px;
+    font-size: 14px;
     margin: 0;
   }
   .hero-links {
@@ -831,7 +812,7 @@ nav a[aria-current] {
     padding: 34px 0 38px;
   }
   .section-label h2 {
-    font-size: 30px;
+    font-size: 24px;
     margin: 6px 0 0;
   }
   .section-label .quiet-link,
@@ -840,7 +821,7 @@ nav a[aria-current] {
     margin-top: 8px;
   }
   .section-intro {
-    font-size: 23px;
+    font-size: 18px;
     margin: 0 0 22px;
   }
   .research-grid {
@@ -885,7 +866,7 @@ nav a[aria-current] {
     font-size: 8px;
   }
   .publication h3 {
-    font-size: 22px;
+    font-size: 18px;
   }
   .authors,
   .venue {
@@ -905,14 +886,14 @@ nav a[aria-current] {
     padding: 20px;
   }
   .project-content h3 {
-    font-size: 23px;
+    font-size: 20px;
   }
   .project-row {
     gap: 10px;
   }
   .project-row .eyebrow {
-    font-size: 9px;
-    letter-spacing: 1px;
+    font-size: 12px;
+    letter-spacing: 0.3px;
   }
   .project-row h3 {
     font-size: 16px;
