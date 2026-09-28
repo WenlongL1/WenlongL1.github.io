@@ -659,7 +659,7 @@ nav a[aria-current] {
 .closing-quote p {
   max-width: 780px;
   color: var(--ink);
-  font: italic 18px/1.65 Georgia, "Times New Roman", serif;
+  font: italic 15px/1.75 Georgia, "Times New Roman", serif;
   letter-spacing: 0.01em;
 }
 .closing-quote cite {
