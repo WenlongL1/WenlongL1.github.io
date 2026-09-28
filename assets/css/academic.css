@@ -215,14 +215,18 @@ nav a[aria-current] {
   font-size: 12px;
   font-weight: 500;
 }
+.hero-links a {
+  font-size: 12px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
 .button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 24px;
   border: 1px solid var(--accent);
   border-radius: 3px;
-  padding: 9px 18px;
+  padding: 12px 20px;
   min-height: 44px;
 }
 .primary {
@@ -817,7 +821,7 @@ nav a[aria-current] {
     font-size: 12px;
   }
   .hero-links a {
-    min-height: 42px;
+    min-height: 44px;
     display: inline-flex;
     align-items: center;
   }

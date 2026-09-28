@@ -6,7 +6,7 @@
     <h3><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></h3>
     <p class="authors">{{ paper.authors }}</p>
     <p class="venue">{{ paper.venue }}{% if paper.volume %} · {{ paper.volume }}{% endif %}</p>
-    <div class="text-links"><a href="{{ paper.doi }}">Paper / DOI <span aria-hidden="true">↗</span></a><a href="{{ paper.url | relative_url }}">Abstract <span aria-hidden="true">→</span></a><a href="{{ '/research/electric-bus/' | relative_url }}">Research details <span aria-hidden="true">→</span></a></div>
+    <div class="text-links"><a href="{{ paper.doi }}">Paper / DOI</a><a href="{{ paper.url | relative_url }}">Abstract</a><a href="{{ '/research/electric-bus/' | relative_url }}">Research details</a></div>
   </div>
 </article>
 {% endfor %}
