@@ -1,6 +1,10 @@
 ---
 title: "Planning dynamic wireless charging infrastructure for battery electric bus systems with the joint optimization of charging scheduling"
 collection: publications
+layout: academic
+authors: '<strong>Wenlong Li</strong>, Yi He, Songhua Hu, Zhengbing He, Carlo Ratti'
+doi: 'https://doi.org/10.1016/j.trc.2023.104469'
+volume: '159, 104469'
 permalink: /publication/2024-01-15-paper1
 date: 2024-01-05
 venue: 'Transportation Research Part C: Emerging Technologies'

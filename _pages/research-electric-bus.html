@@ -1,0 +1,32 @@
+---
+layout: academic
+title: Integrated optimization of electric bus systems
+permalink: /research/electric-bus/
+description: Joint optimization of dynamic wireless charging infrastructure, battery capacity, and charging schedules for electric buses.
+---
+<p class="eyebrow">RESEARCH PROJECT · JUL 2022 – DEC 2023</p>
+<p class="case-lead">Planning charging infrastructure and daily operations together.</p>
+<p>Supervised by Dr. Yi He and Prof. Zhengbing He.</p>
+<p>Battery electric buses (BEBs) offer a cleaner alternative to combustion engine vehicles, but limited range, lengthy charging times, and battery costs constrain their adoption. Dynamic wireless charging (DWC) allows buses to charge while in motion, extending their operating range and reducing onboard battery requirements.</p>
+<p>Charging infrastructure, battery capacity, and charging schedules are interdependent. This research jointly addresses long-term strategic planning and short-term tactical operations through a mixed-integer nonlinear programming (MINLP) model.</p>
+<div class="text-links"><a href="https://doi.org/10.1016/j.trc.2023.104469">Read the paper / DOI ↗</a><a href="{{ '/publication/2024-01-15-paper1' | relative_url }}">Read the abstract →</a></div>
+<h2>A joint planning framework</h2>
+<ul><li><strong>Long-term strategic optimization:</strong> minimize overall costs by optimizing the deployment of DWC facilities and the battery capacity of electric buses.</li><li><strong>Short-term tactical optimization:</strong> minimize charging costs by optimizing daily charging schedules under time-of-use electricity tariffs.</li></ul>
+<figure class="research-figure"><a href="{{ '/images/framework.jpg' | relative_url }}"><img src="{{ '/images/framework.jpg' | relative_url }}" alt="Framework linking strategic infrastructure and battery planning with tactical charging scheduling" loading="lazy"></a><figcaption>The integrated strategic and tactical optimization framework.</figcaption></figure>
+<p>Because buses follow fixed routes and schedules, DWC equipment can be strategically installed along their routes.</p>
+<figure class="research-figure"><a href="{{ '/images/dwc1.jpg' | relative_url }}"><img src="{{ '/images/dwc1.jpg' | relative_url }}" alt="Electric buses receiving energy from dynamic wireless charging equipment along a bus route" loading="lazy"></a><figcaption>Dynamic wireless charging along fixed bus routes.</figcaption></figure>
+<h2>Case study: Beijing bus network</h2>
+<p>Numerical experiments use Beijing bus routes 19, 59, and 65. The model identifies DWC facility locations and battery sizes, and compares charging schedules before and after optimization.</p>
+<div class="figure-grid"><figure class="research-figure"><a href="{{ '/images/map1.jpg' | relative_url }}"><img src="{{ '/images/map1.jpg' | relative_url }}" alt="Map of the Beijing bus routes used in the case study" loading="lazy"></a><figcaption>Study network in Beijing.</figcaption></figure><figure class="research-figure"><a href="{{ '/images/topmap1.jpg' | relative_url }}"><img src="{{ '/images/topmap1.jpg' | relative_url }}" alt="Topology of the case-study bus network" loading="lazy"></a><figcaption>Bus network topology.</figcaption></figure></div>
+<figure class="research-figure"><a href="{{ '/images/125TOU.jpg' | relative_url }}"><img src="{{ '/images/125TOU.jpg' | relative_url }}" alt="Time-of-use electricity tariffs considered in the charging optimization" loading="lazy"></a><figcaption>Time-of-use charging tariff.</figcaption></figure>
+<h2>Costs and charging schedules</h2>
+<p>The optimization accounts for charging facilities, batteries, and electricity costs. By making better use of DWC infrastructure, buses can reduce battery depth of discharge and battery capacity requirements.</p>
+<figure class="research-figure"><a href="{{ '/images/cost12.jpg' | relative_url }}"><img src="{{ '/images/cost12.jpg' | relative_url }}" alt="Cost results from the integrated electric bus optimization study" loading="lazy"></a><figcaption>Cost comparisons from the original study.</figcaption></figure>
+<figure class="research-figure"><a href="{{ '/images/cost3.jpg' | relative_url }}"><img src="{{ '/images/cost3.jpg' | relative_url }}" alt="Additional cost comparison results for the electric bus system" loading="lazy"></a><figcaption>Further cost analysis.</figcaption></figure>
+<details><summary>Explore the battery state-of-charge results</summary><p>Comparison of battery state of charge before and after charging optimization. Select any figure to open the full-resolution image.</p>
+<figure class="research-figure"><a href="{{ '/images/SOC1.jpg' | relative_url }}"><img src="{{ '/images/SOC1.jpg' | relative_url }}" alt="First battery state-of-charge comparison before and after optimization" loading="lazy"></a><figcaption>State-of-charge comparison 1.</figcaption></figure>
+<figure class="research-figure"><a href="{{ '/images/SOC2.jpg' | relative_url }}"><img src="{{ '/images/SOC2.jpg' | relative_url }}" alt="Second battery state-of-charge comparison before and after optimization" loading="lazy"></a><figcaption>State-of-charge comparison 2.</figcaption></figure>
+<figure class="research-figure"><a href="{{ '/images/SOC3.jpg' | relative_url }}"><img src="{{ '/images/SOC3.jpg' | relative_url }}" alt="Third battery state-of-charge comparison before and after optimization" loading="lazy"></a><figcaption>State-of-charge comparison 3.</figcaption></figure></details>
+<h2>Sharing the research</h2>
+<p>Related findings were reported at the 103rd Transportation Research Board Annual Meeting, AP050 Committee on Bus Transit Systems.</p>
+<figure class="research-figure"><a href="{{ '/images/trb2024.jpg' | relative_url }}"><img src="{{ '/images/trb2024.jpg' | relative_url }}" alt="Wenlong Li presenting research at the 2024 Transportation Research Board Annual Meeting" loading="lazy"></a><figcaption>TRB 103rd Annual Meeting · Washington, DC · 2024.</figcaption></figure>

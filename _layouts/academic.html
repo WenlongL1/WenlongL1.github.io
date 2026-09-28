@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% unless page.home %}{{ page.title | escape }} · {% endunless %}Wenlong Li · Transportation Research</title>
+  <meta name="description" content="{{ page.description | default: 'Wenlong Li, Ph.D. student at the University at Buffalo. Research in transportation electrification, system optimization, and network modeling.' | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: 'Wenlong Li' | escape }}">
+  <meta property="og:description" content="Transportation electrification, system optimization, and network modeling at the University at Buffalo.">
+  <meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="{{ '/assets/images/academic-mark.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  <script src="{{ '/assets/js/academic.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Wenlong Li home">Wenlong Li<span class="brand-dot" aria-hidden="true">.</span></a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav" hidden>Menu <span aria-hidden="true">＋</span></button>
+      <nav id="primary-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}#about">About</a>
+        <a href="{{ '/' | relative_url }}#research">Research</a>
+        <a href="{{ '/' | relative_url }}#publications">Publications</a>
+        <a href="{{ '/' | relative_url }}#projects">Projects</a>
+        <a href="{{ '/' | relative_url }}#experience">Experience</a>
+        <a href="{{ '/cv/' | relative_url }}">CV <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="page-shell{% unless page.home %} inner-page{% endunless %}">
+    {% unless page.home %}<a class="back-link" href="{{ '/' | relative_url }}">← Back to home</a><h1>{{ page.title }}</h1>{% endunless %}
+    {{ content }}
+  </main>
+  <footer class="site-footer"><div><span>© {{ site.time | date: '%Y' }} Wenlong Li</span><span>Transportation research · Buffalo, NY</span><a href="#main">Back to top ↑</a></div></footer>
+</body>
+</html>
