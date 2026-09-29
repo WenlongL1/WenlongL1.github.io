@@ -647,6 +647,10 @@ nav a[aria-current] {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 38px;
+  align-items: center;
 }
 .closing-quote::before {
   content: "“";
@@ -657,9 +661,8 @@ nav a[aria-current] {
   font: 44px/1 Georgia, "Times New Roman", serif;
 }
 .closing-quote p {
-  max-width: 780px;
   color: var(--ink);
-  font: italic 15px/1.75 Georgia, "Times New Roman", serif;
+  font: italic 14px/1.72 Georgia, "Times New Roman", serif;
   letter-spacing: 0.01em;
 }
 .closing-quote cite {
@@ -668,6 +671,23 @@ nav a[aria-current] {
   color: var(--accent);
   font: 600 12px/1.4 var(--display);
   letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.pale-blue-dot {
+  margin: 0;
+}
+.pale-blue-dot img {
+  display: block;
+  width: 100%;
+  border-radius: 4px;
+  background: #101919;
+}
+.pale-blue-dot figcaption {
+  margin-top: 10px;
+  color: var(--accent);
+  font: 600 11px/1.4 var(--display);
+  letter-spacing: 0.1em;
+  text-align: center;
   text-transform: uppercase;
 }
 .site-footer {
@@ -1066,6 +1086,8 @@ nav a[aria-current] {
   .closing-quote {
     margin: 2px 22px 48px;
     padding: 23px 22px 20px;
+    grid-template-columns: 1fr;
+    gap: 24px;
   }
   .closing-quote::before {
     left: 0;
@@ -1073,8 +1095,12 @@ nav a[aria-current] {
     font-size: 36px;
   }
   .closing-quote p {
-    font-size: 16px;
-    line-height: 1.6;
+    font-size: 13px;
+    line-height: 1.68;
+  }
+  .pale-blue-dot {
+    width: min(230px, 100%);
+    margin: 0 auto;
   }
   .cv-section .hero-links {
     margin-top: 20px;
